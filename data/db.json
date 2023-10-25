@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Completed",
+      "datetime": "October 25, 2023 6:38:39 PM",
+      "body": "Finally Completed the Social Media Project"
+    },
+    {
+      "id": 2,
+      "title": "Learnt",
+      "datetime": "October 25, 2023 6:39:09 PM",
+      "body": "Learnt something about react"
+    }
+  ]
+}
